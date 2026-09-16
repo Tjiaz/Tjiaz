@@ -1,86 +1,212 @@
+<div align="center">
 
+# 👋 Hi, I'm Tunji
 
-<div id ="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ1OGRtdGppNmJicWg3N2tnOGI5dm1pNW96cmUzN2dvaDVzbjFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+### Data Engineer • Data Scientist • AI & Cloud Enthusiast
+
+<p>
+  <a href="https://www.linkedin.com/in/olatunji-a-82749438/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCkak3GrVYcWPV4FxPQ9brRg">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://github.com/Tjiaz">
+    <img src="https://img.shields.io/badge/GitHub-Tjiaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Tjiaz&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/olatunji-a-82749438/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Liniedin Badge"/>
-  </a>
-   <a href="https://www.youtube.com/channel/UCkak3GrVYcWPV4FxPQ9brRg"> 
-    <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="www.x.com">
-    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" alt="X badge"/>
-  </a>
-  <div>
-     <img src="https://komarev.com/ghpvc/?username=Tjiaz&style=flat-square&color=blue" alt="profile" />
-  </div>
-  <h1>
-    hey there 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px""/>
-  </h1>
+---
 
-</div>
+## 🚀 About Me
+
+I'm a **Data Engineer and Data Scientist** with a background in software development, analytics, machine learning, and big data technologies.
+
+I enjoy building systems that turn **raw data into useful insights, intelligent applications, and scalable solutions**.
+
+* 🔭 Currently building **data engineering, AI, and automation projects**
+* 🐍 Working primarily with **Python, SQL, and JavaScript**
+* ☁️ Exploring **AWS, cloud data platforms, and scalable data pipelines**
+* 🤖 Interested in **Machine Learning, Deep Learning, NLP, and Generative AI**
+* 📊 Enjoy working with **data analytics, visualisation, and business intelligence**
+* 🌱 Continuously learning and experimenting with new technologies
+* ✍️ I also enjoy **technical content writing and knowledge sharing**
+* 💡 I believe the best way to learn technology is to **build with it**
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages & Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" alt="Node.js"/>
+</p>
+
+### ☁️ Cloud & Data Engineering
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" title="AWS" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" title="Apache" alt="Apache"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite" alt="SQLite"/>
+</p>
+
+**Data Engineering:**
+`Python` `SQL` `Spark` `Hadoop` `Flink` `AWS` `ETL` `Data Pipelines` `PostgreSQL` `MongoDB`
+
+### 🤖 Data Science & AI
+
+<p>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+</p>
+
+**Interests:**
+`Machine Learning` `Deep Learning` `NLP` `Generative AI` `Predictive Analytics` `Computer Vision`
+
+### 📊 Analytics & Visualisation
+
+`Power BI` `Tableau` `Matplotlib` `Data Analysis` `Data Visualisation` `Business Intelligence`
+
+### 🛠️ Tools
+
+<p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AWS Sales Analytics Pipeline
+
+A cloud-based data engineering project designed to process and analyse e-commerce sales data.
+
+**Architecture:**
+
+`CSV → Amazon S3 → Processing → PostgreSQL → Analytics`
+
+**Technologies:**
+`Python` `AWS S3` `AWS Lambda` `RDS PostgreSQL` `Glue` `Athena` `SQL`
+
+---
+
+### 💎 AzByteGems
+
+A data science and technology publishing platform built with modern web technologies.
+
+**Technologies:**
+`Next.js` `React` `MongoDB` `JavaScript` `API Routes`
+
+🔗 **[Visit AzByteGems](https://www.azbytegems.com)**
+
+---
+
+### 🤖 AI & Automation
+
+Building intelligent automation workflows using modern AI tools and frameworks.
+
+**Technologies:**
+`Python` `Generative AI` `Gemini` `LangGraph` `APIs` `Automation`
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
- ________________________________________________________________________________________________________________
 
+<img src="https://github-readme-stats.vercel.app/api?username=Tjiaz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
 
- ### 👨‍💻 About Me
- I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjiaz&layout=compact&theme=transparent&hide_border=true" height="180"/>
 
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and data science projects.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ola-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olatunji-a-82749438/))
-
-
-_________________________________________________________________________________________________________________
-
-###  🛠️: Language and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-_______________________________________________________________________________________________________________________
+<br>
 
+<div align="center">
 
-### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tjiaz&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Tjiaz&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 
-_______________________________________________________________________________________________________________________
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjiaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-_______________________________________________________________________________________________________________________
+## 📚 Currently Learning
 
-### ✍️: Blog Posts :
+```text
+☁️ Cloud Data Engineering
+   ├── AWS
+   ├── Data Pipelines
+   └── Cloud Architecture
 
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+🤖 Artificial Intelligence
+   ├── Generative AI
+   ├── LLM Applications
+   └── AI Agents
 
+📊 Data Engineering
+   ├── Apache Spark
+   ├── Data Warehousing
+   └── Distributed Systems
+```
 
+---
 
+## ✍️ Writing & Knowledge Sharing
 
+I enjoy turning technical concepts and practical experiences into accessible content.
 
+Topics I explore include:
+
+* Data Science
+* Machine Learning
+* Python
+* SQL
+* Cloud Computing
+* Artificial Intelligence
+* Data Engineering
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people working on interesting problems in **Data, AI, Software Engineering, and Cloud Computing**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/olatunji-a-82749438/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tjiaz">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
