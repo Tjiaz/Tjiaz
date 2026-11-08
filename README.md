@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data Analyst and Data Quality Analyst** with an **MSc in Big Data Science and Technology (Distinction)** and experience in data analysis, data quality assurance, reporting, and AI model evaluation.
+I'm a **Data Analyst and Data Quality Analyst** and experience in data analysis, data quality assurance, reporting, and AI model evaluation.
 
 I use **Python, SQL, Excel, and Power BI** to clean, validate, analyse, and communicate data. I also build and evaluate machine learning solutions, with project experience in fraud detection, natural language processing, and medical image segmentation.
 
@@ -32,7 +32,6 @@ I use **Python, SQL, Excel, and Power BI** to clean, validate, analyse, and comm
 * 📊 Experienced in **data analysis, reporting, dashboards, and data visualisation**
 * 🤖 Exploring **machine learning, deep learning, NLP, and AI model evaluation**
 * ☁️ Familiar with **AWS, Microsoft Azure, and cloud data platforms**
-* 🎓 MSc Big Data Science and Technology, **University of Bradford (Distinction)**
 * 📜 Certifications include **Azure Data Engineer Associate**, **Azure Data Fundamentals**, and **AWS Certified Cloud Practitioner**
 
 ---
