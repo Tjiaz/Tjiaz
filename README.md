@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tunji
 
-### Data Engineer • Data Scientist • AI & Cloud Enthusiast
+### Data Analyst • Data Quality Analyst • Machine Learning Practitioner
 
 <p>
   <a href="https://www.linkedin.com/in/olatunji-a-82749438/">
@@ -24,18 +24,16 @@
 
 ## 🚀 About Me
 
-I'm a **Data Engineer and Data Scientist** with a background in software development, analytics, machine learning, and big data technologies.
+I'm a **Data Analyst and Data Quality Analyst** with an **MSc in Big Data Science and Technology (Distinction)** and experience in data analysis, data quality assurance, reporting, and AI model evaluation.
 
-I enjoy building systems that turn **raw data into useful insights, intelligent applications, and scalable solutions**.
+I use **Python, SQL, Excel, and Power BI** to clean, validate, analyse, and communicate data. I also build and evaluate machine learning solutions, with project experience in fraud detection, natural language processing, and medical image segmentation.
 
-* 🔭 Currently building **data engineering, AI, and automation projects**
-* 🐍 Working primarily with **Python, SQL, and JavaScript**
-* ☁️ Exploring **AWS, cloud data platforms, and scalable data pipelines**
-* 🤖 Interested in **Machine Learning, Deep Learning, NLP, and Generative AI**
-* 📊 Enjoy working with **data analytics, visualisation, and business intelligence**
-* 🌱 Continuously learning and experimenting with new technologies
-* ✍️ I also enjoy **technical content writing and knowledge sharing**
-* 💡 I believe the best way to learn technology is to **build with it**
+* 🔎 Currently working in **data quality**, investigating anomalies and improving data reliability
+* 📊 Experienced in **data analysis, reporting, dashboards, and data visualisation**
+* 🤖 Exploring **machine learning, deep learning, NLP, and AI model evaluation**
+* ☁️ Familiar with **AWS, Microsoft Azure, and cloud data platforms**
+* 🎓 MSc Big Data Science and Technology, **University of Bradford (Distinction)**
+* 📜 Certifications include **Azure Data Engineer Associate**, **Azure Data Fundamentals**, and **AWS Certified Cloud Practitioner**
 
 ---
 
